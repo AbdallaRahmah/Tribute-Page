@@ -6,6 +6,7 @@ this is a solution to the Tribute Page project on [freecodecamp](https://www.fre
 
 - [overview](#overview)
   - [thechallenge](#challenge)
+  - [live view](#live)
   - [screenshot](#sreenshot)
 - [theprocess](#theprocess)
   - [built-with](#code)
@@ -16,6 +17,10 @@ this is a solution to the Tribute Page project on [freecodecamp](https://www.fre
 ### challenge
 
 Build an app that is functionally similar to https://tribute-page.freecodecamp.rocks/
+
+### live
+
+you can check the project live here https://abdallarahmah.github.io/Tribute-Page/
 
 ### screenshot
 
